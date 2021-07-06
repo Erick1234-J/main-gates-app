@@ -1,0 +1,11 @@
+<?php
+include("index.html");
+include("about.html");
+include("error.html");
+include("contact.html");
+include("services.html");
+include("single");
+include("team.html");
+include("timeline.html");
+include("typo.html");
+?>
