@@ -1,5 +1,5 @@
 <?php
-include("index.html");
+include("home.html");
 include("about.html");
 include("error.html");
 include("contact.html");
